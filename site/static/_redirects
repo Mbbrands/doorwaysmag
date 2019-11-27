@@ -1,6 +1,4 @@
 # Redirect default Netlify subdomain to primary domain
-https://doorwaysmag.netlify.com/* https://www.doorwaysmagazine.com/:splat 301!
-http://doorwaysmagazine.com/* https://www.doorwaysmagazine.com/:splat 301!
 
 # Article URL Changes
 /how-to-design-your-own-house  /design-your-own-house/ 301
